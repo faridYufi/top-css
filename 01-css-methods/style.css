@@ -1,0 +1,14 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headline{
+    background-color: red;
+    padding: 25px;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    color: white;;
+}
